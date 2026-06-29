@@ -52,7 +52,7 @@ These filters allow users to dynamically explore the data and analyze specific c
 segments.
 
 ## Dashboard Preview
-![Bike sales dashboard](Bike Sales Dashboard.png)
+![Bike Sales Dashboard](Bike Sales Dashboard.png)
 
 # Key Findings
 • Higher-income customers show a greater tendency to purchase bikes.
