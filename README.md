@@ -56,8 +56,12 @@ segments.
 
 # Key Findings
 • Higher-income customers show a greater tendency to purchase bikes.
+
 • Middle-aged individuals are the most active bike buyers.
+
 • Customers with shorter commute distances purchase bikes more frequently.
+
 • Bike purchasing behavior varies across different educational backgrounds, regions, and
 marital statuses.
+
 • Interactive slicers make the dashboard easy to use and support deeper analysis.
