@@ -24,26 +24,26 @@ individuals who purchase bikes. The analysis focuses on answering questions such
 • Data Cleaning and Transformation
 • Dashboard Design
 
-## Dashboard Features
+# Dashboard Features
 
-# Income Analysis
+Income Analysis
 Analysed the average income of customers based on gender and bike purchase status.
 Key Insight:
 Customers who purchased bikes generally have higher average incomes compared to those who
 did not purchase bikes.
 
-# Commute Distance Analysis
+Commute Distance Analysis
 Examined the relationship between commuting distance and bike purchases.
 Key Insight:
 Customers traveling shorter distances are more likely to purchase bikes, while bike purchases
 decrease as commuting distance increases.
 
-# Age Group Analysis
+Age Group Analysis
 Customers were categorized into age brackets such as Adolescent, Middle Age, and Old
 Key Insight:
 Middle-aged customers represent the largest group of bike buyers.
 
-# Interactive Filtering
+Interactive Filtering
 Added slicers for:
 • Marital Status
 • Region
